@@ -20,9 +20,9 @@ Welcome to my GitHub profile! I'm a passionate Java developer with a strong focu
 - **Databases**: Relational Databases, Document Databases
 - **Cloud Platforms**: AWS
 
-### 📈 GitHub Stats
-![Shile's GitHub stats](https://github-readme-stats.vercel.app/api?username=Social-Market&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Social-Market&layout=compact&theme=radical)
+<!--- ### 📈 GitHub Stats
+ ![Shile's GitHub stats](https://github-readme-stats.vercel.app/api?username=Social-Market&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Social-Market&layout=compact&theme=radical)  
 
 ### 📚 Featured Projects
 
@@ -40,7 +40,7 @@ Welcome to my GitHub profile! I'm a passionate Java developer with a strong focu
 
 ### 🌟 Open Source Contributions
 - **[Repository Name](#)**: A brief description of your contribution.
-- **[Repository Name](#)**: A brief description of your contribution.
+- **[Repository Name](#)**: A brief description of your contribution. --->
 
 ### 🎯 Goals
 - **Short-term**: Solving problems
