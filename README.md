@@ -1,6 +1,6 @@
 # Shile Roland's
 
-![Profile Banner](https://via.placeholder.com/1200x300)  <!-- Optional: Add a custom banner image or remove this line -->
+![Profile Banner](https://media.licdn.com/dms/image/v2/D4D16AQHv9_xTu7RILA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1671829438279?e=1730332800&v=beta&t=InNYM7kG4JcsJ-eYF6Yr9bAA2xKwkaot-Q0B2HEyXaI)  <!-- Optional: Add a custom banner image or remove this line -->
 
 ## 👋 Hi there, I'm Shile Roland
 
