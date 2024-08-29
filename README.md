@@ -1,10 +1,10 @@
-# Shile Roland's
+# Shile Roland
 
-![Profile Banner](https://media.licdn.com/dms/image/v2/D4D16AQHv9_xTu7RILA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1671829438279?e=1730332800&v=beta&t=InNYM7kG4JcsJ-eYF6Yr9bAA2xKwkaot-Q0B2HEyXaI)  <!-- Optional: Add a custom banner image or remove this line -->
+![Profile Banner](https://media.licdn.com/dms/image/v2/D4D16AQHv9_xTu7RILA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1671829438279?e=1730332800&v=beta&t=InNYM7kG4JcsJ-eYF6Yr9bAA2xKwkaot-Q0B2HEyXaI) 
 
 ## 👋 Hi there, I'm Shile Roland
 
-Welcome to my GitHub profile! I'm a passionate Java developer with a strong focus on building robust, scalable, and efficient applications. With a keen interest in software design and architecture, I continuously strive to improve my skills and contribute to open-source projects.
+Welcome to my GitHub profile! I'm a passionate Java developer with a strong focus on building robust, scalable, and efficient applications. With a keen interest in software design and architecture, I continuously strive to improve my skills and contribute to open-source projects, i love to work on data driven systems
 
 ### 🚀 About Me
 - 🎓 **Education**: Bachelor's degree in Computer Science.
@@ -21,8 +21,8 @@ Welcome to my GitHub profile! I'm a passionate Java developer with a strong focu
 - **Cloud Platforms**: AWS
 
 ### 📈 GitHub Stats
-![Shile's GitHub stats](https://github-readme-stats.vercel.app/api?username=shileroland&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shileroland&layout=compact&theme=radical)
+![Shile's GitHub stats](https://github-readme-stats.vercel.app/api?username=Social-Market&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Social-Market&layout=compact&theme=radical)
 
 ### 📚 Featured Projects
 
@@ -43,12 +43,12 @@ Welcome to my GitHub profile! I'm a passionate Java developer with a strong focu
 - **[Repository Name](#)**: A brief description of your contribution.
 
 ### 🎯 Goals
-- **Short-term**: Contribute to more open-source Java projects and enhance my knowledge in cloud computing.
+- **Short-term**: Solving problems
 - **Long-term**: Lead a team of developers in building large-scale Java applications and contribute to the Java community through mentoring and writing.
 
 ### 📫 Let's Connect
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/roland-shile-8a2304156/)
-- **Twitter**: [Your Twitter Profile](https://x.com/shileRoland)
-- **Email**: [Your Email Address](mailto:shileroland@gmail.com)
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/roland-shile-8a2304156/)
+- **Twitter**: [Twitter Profile](https://x.com/shileRoland)
+- **Email**: [Email Address](mailto:shileroland@gmail.com)
 
 ---
